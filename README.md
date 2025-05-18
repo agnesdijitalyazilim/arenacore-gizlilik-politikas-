@@ -1,4 +1,4 @@
-ArenaCore Discord Bot – Gizlilik Politikası
+ArenaCore – Privacy Policy
 Yürürlülük Tarihi: 18 Mayıs 2025
 
 ArenaCore (“Bot”) sizlere sorunsuz bir scrim yönetimi deneyimi sunmak amacıyla sınırlı miktarda veri toplar ve işler. Bu politika, hangi verileri topladığımızı, nasıl kullandığımızı ve kullanıcıların haklarını açıklar.
